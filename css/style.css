@@ -27,7 +27,7 @@ body{
     height: 677px;
 }
 .container{
-    width: 980px;
+    width: 900px;
     
 }
 .container-header{
@@ -296,6 +296,7 @@ button:hover{
    }
    .highlight-container{
        flex-direction: column;
+       width: 300px;
    }
    .highlight-info{
     width: 329px;
@@ -334,6 +335,10 @@ button:hover{
   }
   .copyright{
       padding-bottom: 187px;
+  }
+  
+  section{
+      overflow: hidden;
   }
   
 
